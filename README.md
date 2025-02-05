@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
+# Домашнее задание к занятию "`CICD Git`" - `Асначев Иван`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -25,24 +25,18 @@
 ### Задание 1
 
 `Приведите ответ в свободной форме........`
+1. `https://github.com/iasnachev2021/git_CICD40/tree/main?tab=readme-ov-file#git_cicd40-commit-1`
+`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Cкриншота 1](https://github.com/iasnachev2021/git_CICD40/blob/main/01.png)`
+![Cкриншота 2](https://github.com/iasnachev2021/git_CICD40/blob/main/02.png)`
+![Cкриншота 3](https://github.com/iasnachev2021/git_CICD40/blob/main/03.png)`
+![Cкриншота 4](https://github.com/iasnachev2021/git_CICD40/blob/main/004.png)`
+![Cкриншота 5](https://github.com/iasnachev2021/git_CICD40/blob/main/005.png)`
+![Cкриншота 6](https://github.com/iasnachev2021/git_CICD40/blob/main/006.png)`
+![Cкриншота 7](https://github.com/iasnachev2021/git_CICD40/blob/main/007.png)`
+![Cкриншота 8](https://github.com/iasnachev2021/git_CICD40/blob/main/008.png)`
+![Cкриншота 9](https://github.com/iasnachev2021/git_CICD40/blob/main/009.png)`
 
 
 ---
@@ -51,24 +45,12 @@
 
 `Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
+1. `https://github.com/iasnachev2021/git_CICD40/blob/main/.gitignore`
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
-
+![Cкриншот 1](https://github.com/iasnachev2021/git_CICD40/blob/main/010.jpg)`
+![Cкриншот 2](https://github.com/iasnachev2021/git_CICD40/blob/main/011.jpg)`
+![Cкриншот 3](https://github.com/iasnachev2021/git_CICD40/blob/main/012.jpg)`
 
 ---
 
@@ -92,7 +74,14 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![Cкриншот 1](https://github.com/iasnachev2021/git_CICD40/blob/main/013.jpg)`
+![Cкриншот 2](https://github.com/iasnachev2021/git_CICD40/blob/main/014.jpg)`
+![Cкриншот 3](https://github.com/iasnachev2021/git_CICD40/blob/main/15.jpg)`
+![Cкриншот 4](https://github.com/iasnachev2021/git_CICD40/blob/main/16.jpg)`
+![Cкриншот 5](https://github.com/iasnachev2021/git_CICD40/blob/main/17.1.jpg)`
+![Cкриншот 6](https://github.com/iasnachev2021/git_CICD40/blob/main/17.jpg)`
+
+![Ссылка на Граф](https://github.com/iasnachev2021/git_CICD40/network)`
 
 ### Задание 4
 
